@@ -1,0 +1,8 @@
+# exclude raw data sources
+image_predictions.tsv
+tweet_json.txt
+twitter-archive-enhanced.csv
+# exclude student full notebook
+wrangle_act.ipynb
+# exclude jupyter checkpoints
+.ipynb*
